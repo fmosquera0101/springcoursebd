@@ -8,7 +8,7 @@ Esta dividida en tres capas:
 
 Beans: la cual contiene los beans que representa al Jugador, Equipo, Camiseta y la Marca de la camiseta.
 
-Serices: encargada de proveer los diferentes servicios para la lectura e inserccion de la informacion
+Services: encargada de proveer los diferentes servicios para la lectura e inserccion de la informacion
 
 Dao: La cual es la encargada establecer la interfaz entre la apliacion y la base de datos MYSQL
 
